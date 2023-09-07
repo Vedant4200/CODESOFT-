@@ -10,7 +10,7 @@ int main()
        sum = sum+marks;
    }
    avg = sum/5;
-   cout<<endl<<"Grade = ";
+   cout<<endl<<"your grade is : ";
    if(avg>=90 && avg<=100)
        cout<<"A1";
    else if(avg>=80 && avg<90)
