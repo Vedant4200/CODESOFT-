@@ -1,2 +1,2 @@
 # CODESOFT
-here is r=the c++ internship  tasks
+Thanks CODESOFT for giving this opportunity. Here is the 3 task that i have completed.
